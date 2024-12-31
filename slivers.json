@@ -1,0 +1,577 @@
+[
+    {
+        "name": "Acidic Sliver",
+        "art": "arts/Acidic_Sliver.jpg",
+        "fullcard": "fullcards/Acidic_Sliver.jpg"
+    },
+    {
+        "name": "Armor Sliver",
+        "art": "arts/Armor_Sliver.jpg",
+        "fullcard": "fullcards/Armor_Sliver.jpg"
+    },
+    {
+        "name": "Barbed Sliver",
+        "art": "arts/Barbed_Sliver.jpg",
+        "fullcard": "fullcards/Barbed_Sliver.jpg"
+    },
+    {
+        "name": "Basal Sliver",
+        "art": "arts/Basal_Sliver.jpg",
+        "fullcard": "fullcards/Basal_Sliver.jpg"
+    },
+    {
+        "name": "Battering Sliver",
+        "art": "arts/Battering_Sliver.jpg",
+        "fullcard": "fullcards/Battering_Sliver.jpg"
+    },
+    {
+        "name": "Battle Sliver",
+        "art": "arts/Battle_Sliver.jpg",
+        "fullcard": "fullcards/Battle_Sliver.jpg"
+    },
+    {
+        "name": "Belligerent Sliver",
+        "art": "arts/Belligerent_Sliver.jpg",
+        "fullcard": "fullcards/Belligerent_Sliver.jpg"
+    },
+    {
+        "name": "Bladeback Sliver",
+        "art": "arts/Bladeback_Sliver.jpg",
+        "fullcard": "fullcards/Bladeback_Sliver.jpg"
+    },
+    {
+        "name": "Blade Sliver",
+        "art": "arts/Blade_Sliver.jpg",
+        "fullcard": "fullcards/Blade_Sliver.jpg"
+    },
+    {
+        "name": "Blur Sliver",
+        "art": "arts/Blur_Sliver.png",
+        "fullcard": "fullcards/Blur_Sliver.jpg"
+    },
+    {
+        "name": "Bonescythe Sliver",
+        "art": "arts/Bonescythe_Sliver.jpg",
+        "fullcard": "fullcards/Bonescythe_Sliver.jpg"
+    },
+    {
+        "name": "Bonesplitter Sliver",
+        "art": "arts/Bonesplitter_Sliver.jpg",
+        "fullcard": "fullcards/Bonesplitter_Sliver.jpg"
+    },
+    {
+        "name": "Brood Sliver",
+        "art": "arts/Brood_Sliver.jpg",
+        "fullcard": "fullcards/Brood_Sliver.jpg"
+    },
+    {
+        "name": "Capricious Sliver",
+        "art": "arts/Capricious_Sliver.jpg",
+        "fullcard": "fullcards/Capricious_Sliver.jpg"
+    },
+    {
+        "name": "Cautery Sliver",
+        "art": "arts/Cautery_Sliver.jpg",
+        "fullcard": "fullcards/Cautery_Sliver.jpg"
+    },
+    {
+        "name": "Cleaving Sliver",
+        "art": "arts/Cleaving_Sliver.jpg",
+        "fullcard": "fullcards/Cleaving_Sliver.jpg"
+    },
+    {
+        "name": "Clot Sliver",
+        "art": "arts/Clot_Sliver.jpg",
+        "fullcard": "fullcards/Clot_Sliver.jpg"
+    },
+    {
+        "name": "Cloudshredder Sliver",
+        "art": "arts/Cloudshredder_Sliver.jpg",
+        "fullcard": "fullcards/Cloudshredder_Sliver.jpg"
+    },
+    {
+        "name": "Constricting Sliver",
+        "art": "arts/Constricting_Sliver.png",
+        "fullcard": "fullcards/Constricting_Sliver.jpg"
+    },
+    {
+        "name": "Crypt Sliver",
+        "art": "arts/Crypt_Sliver.jpg",
+        "fullcard": "fullcards/Crypt_Sliver.jpg"
+    },
+    {
+        "name": "Crystalline Sliver",
+        "art": "arts/Crystalline_Sliver.jpg",
+        "fullcard": "fullcards/Crystalline_Sliver.jpg"
+    },
+    {
+        "name": "Darkheart Sliver",
+        "art": "arts/Darkheart_Sliver.jpg",
+        "fullcard": "fullcards/Darkheart_Sliver.jpg"
+    },
+    {
+        "name": "Dementia Sliver",
+        "art": "arts/Dementia_Sliver.jpg",
+        "fullcard": "fullcards/Dementia_Sliver.jpg"
+    },
+    {
+        "name": "Diffusion Sliver",
+        "art": "arts/Diffusion_Sliver.jpg",
+        "fullcard": "fullcards/Diffusion_Sliver.jpg"
+    },
+    {
+        "name": "Dormant Sliver",
+        "art": "arts/Dormant_Sliver.jpg",
+        "fullcard": "fullcards/Dormant_Sliver.jpg"
+    },
+    {
+        "name": "Dregscape Sliver",
+        "art": "arts/Dregscape_Sliver.jpg",
+        "fullcard": "fullcards/Dregscape_Sliver.jpg"
+    },
+    {
+        "name": "Enduring Sliver",
+        "art": "arts/Enduring_Sliver.jpg",
+        "fullcard": "fullcards/Enduring_Sliver.jpg"
+    },
+    {
+        "name": "Essence Sliver",
+        "art": "arts/Essence_Sliver.jpg",
+        "fullcard": "fullcards/Essence_Sliver.jpg"
+    },
+    {
+        "name": "Firewake Sliver",
+        "art": "arts/Firewake_Sliver.jpg",
+        "fullcard": "fullcards/Firewake_Sliver.jpg"
+    },
+    {
+        "name": "First Sliver's Chosen",
+        "art": "arts/First_Sliver's_Chosen.jpg",
+        "fullcard": "fullcards/First_Sliver's_Chosen.jpg"
+    },
+    {
+        "name": "Frenetic Sliver",
+        "art": "arts/Frenetic_Sliver.jpg",
+        "fullcard": "fullcards/Frenetic_Sliver.jpg"
+    },
+    {
+        "name": "Frenzy Sliver",
+        "art": "arts/Frenzy_Sliver.jpg",
+        "fullcard": "fullcards/Frenzy_Sliver.jpg"
+    },
+    {
+        "name": "Fungus Sliver",
+        "art": "arts/Fungus_Sliver.jpg",
+        "fullcard": "fullcards/Fungus_Sliver.jpg"
+    },
+    {
+        "name": "Fury Sliver",
+        "art": "arts/Fury_Sliver.jpg",
+        "fullcard": "fullcards/Fury_Sliver.jpg"
+    },
+    {
+        "name": "Galerider Sliver",
+        "art": "arts/Galerider_Sliver.jpg",
+        "fullcard": "fullcards/Galerider_Sliver.jpg"
+    },
+    {
+        "name": "Gemhide Sliver",
+        "art": "arts/Gemhide_Sliver.jpg",
+        "fullcard": "fullcards/Gemhide_Sliver.jpg"
+    },
+    {
+        "name": "Ghostflame Sliver",
+        "art": "arts/Ghostflame_Sliver.jpg",
+        "fullcard": "fullcards/Ghostflame_Sliver.jpg"
+    },
+    {
+        "name": "Groundshaker Sliver",
+        "art": "arts/Groundshaker_Sliver.jpg",
+        "fullcard": "fullcards/Groundshaker_Sliver.jpg"
+    },
+    {
+        "name": "Harmonic Sliver",
+        "art": "arts/Harmonic_Sliver.jpg",
+        "fullcard": "fullcards/Harmonic_Sliver.jpg"
+    },
+    {
+        "name": "Hatchery Sliver",
+        "art": "arts/Hatchery_Sliver.jpg",
+        "fullcard": "fullcards/Hatchery_Sliver.jpg"
+    },
+    {
+        "name": "Heart Sliver",
+        "art": "arts/Heart_Sliver.jpg",
+        "fullcard": "fullcards/Heart_Sliver.jpg"
+    },
+    {
+        "name": "Hibernation Sliver",
+        "art": "arts/Hibernation_Sliver.jpg",
+        "fullcard": "fullcards/Hibernation_Sliver.jpg"
+    },
+    {
+        "name": "Hollowhead Sliver",
+        "art": "arts/Hollowhead_Sliver.jpg",
+        "fullcard": "fullcards/Hollowhead_Sliver.jpg"
+    },
+    {
+        "name": "Homing Sliver",
+        "art": "arts/Homing_Sliver.jpg",
+        "fullcard": "fullcards/Homing_Sliver.jpg"
+    },
+    {
+        "name": "Horned Sliver",
+        "art": "arts/Horned_Sliver.jpg",
+        "fullcard": "fullcards/Horned_Sliver.jpg"
+    },
+    {
+        "name": "Hunter Sliver",
+        "art": "arts/Hunter_Sliver.jpg",
+        "fullcard": "fullcards/Hunter_Sliver.jpg"
+    },
+    {
+        "name": "Lancer Sliver",
+        "art": "arts/Lancer_Sliver.jpg",
+        "fullcard": "fullcards/Lancer_Sliver.jpg"
+    },
+    {
+        "name": "Lavabelly Sliver",
+        "art": "arts/Lavabelly_Sliver.jpg",
+        "fullcard": "fullcards/Lavabelly_Sliver.jpg"
+    },
+    {
+        "name": "Lazotep Sliver",
+        "art": "arts/Lazotep_Sliver.jpg",
+        "fullcard": "fullcards/Lazotep_Sliver.jpg"
+    },
+    {
+        "name": "Leeching Sliver",
+        "art": "arts/Leeching_Sliver.jpg",
+        "fullcard": "fullcards/Leeching_Sliver.jpg"
+    },
+    {
+        "name": "Lymph Sliver",
+        "art": "arts/Lymph_Sliver.jpg",
+        "fullcard": "fullcards/Lymph_Sliver.jpg"
+    },
+    {
+        "name": "Magma Sliver",
+        "art": "arts/Magma_Sliver.jpg",
+        "fullcard": "fullcards/Magma_Sliver.jpg"
+    },
+    {
+        "name": "Manaweft Sliver",
+        "art": "arts/Manaweft_Sliver.jpg",
+        "fullcard": "fullcards/Manaweft_Sliver.jpg"
+    },
+    {
+        "name": "Megantic Sliver",
+        "art": "arts/Megantic_Sliver.jpg",
+        "fullcard": "fullcards/Megantic_Sliver.jpg"
+    },
+    {
+        "name": "Mesmeric Sliver",
+        "art": "arts/Mesmeric_Sliver.jpg",
+        "fullcard": "fullcards/Mesmeric_Sliver.jpg"
+    },
+    {
+        "name": "Metallic Sliver",
+        "art": "arts/Metallic_Sliver.jpg",
+        "fullcard": "fullcards/Metallic_Sliver.jpg"
+    },
+    {
+        "name": "Might Sliver",
+        "art": "arts/Might_Sliver.jpg",
+        "fullcard": "fullcards/Might_Sliver.jpg"
+    },
+    {
+        "name": "Mindlash Sliver",
+        "art": "arts/Mindlash_Sliver.jpg",
+        "fullcard": "fullcards/Mindlash_Sliver.jpg"
+    },
+    {
+        "name": "Mindwhip Sliver",
+        "art": "arts/Mindwhip_Sliver.jpg",
+        "fullcard": "fullcards/Mindwhip_Sliver.jpg"
+    },
+    {
+        "name": "Mistform Sliver",
+        "art": "arts/Mistform_Sliver.jpg",
+        "fullcard": "fullcards/Mistform_Sliver.jpg"
+    },
+    {
+        "name": "Mnemonic Sliver",
+        "art": "arts/Mnemonic_Sliver.jpg",
+        "fullcard": "fullcards/Mnemonic_Sliver.jpg"
+    },
+    {
+        "name": "Muscle Sliver",
+        "art": "arts/Muscle_Sliver.jpg",
+        "fullcard": "fullcards/Muscle_Sliver.jpg"
+    },
+    {
+        "name": "Necrotic Sliver",
+        "art": "arts/Necrotic_Sliver.jpg",
+        "fullcard": "fullcards/Necrotic_Sliver.jpg"
+    },
+    {
+        "name": "Opaline Sliver",
+        "art": "arts/Opaline_Sliver.jpg",
+        "fullcard": "fullcards/Opaline_Sliver.jpg"
+    },
+    {
+        "name": "Plague Sliver",
+        "art": "arts/Plague_Sliver.jpg",
+        "fullcard": "fullcards/Plague_Sliver.jpg"
+    },
+    {
+        "name": "Plated Sliver",
+        "art": "arts/Plated_Sliver.jpg",
+        "fullcard": "fullcards/Plated_Sliver.jpg"
+    },
+    {
+        "name": "Poultice Sliver",
+        "art": "arts/Poultice_Sliver.jpg",
+        "fullcard": "fullcards/Poultice_Sliver.jpg"
+    },
+    {
+        "name": "Predatory Sliver",
+        "art": "arts/Predatory_Sliver.jpg",
+        "fullcard": "fullcards/Predatory_Sliver.jpg"
+    },
+    {
+        "name": "Psionic Sliver",
+        "art": "arts/Psionic_Sliver.jpg",
+        "fullcard": "fullcards/Psionic_Sliver.jpg"
+    },
+    {
+        "name": "Pulmonic Sliver",
+        "art": "arts/Pulmonic_Sliver.jpg",
+        "fullcard": "fullcards/Pulmonic_Sliver.jpg"
+    },
+    {
+        "name": "Quick Sliver",
+        "art": "arts/Quick_Sliver.jpg",
+        "fullcard": "fullcards/Quick_Sliver.jpg"
+    },
+    {
+        "name": "Quilled Sliver",
+        "art": "arts/Quilled_Sliver.jpg",
+        "fullcard": "fullcards/Quilled_Sliver.jpg"
+    },
+    {
+        "name": "Reflex Sliver",
+        "art": "arts/Reflex_Sliver.jpg",
+        "fullcard": "fullcards/Reflex_Sliver.jpg"
+    },
+    {
+        "name": "Regal Sliver",
+        "art": "arts/Regal_Sliver.jpg",
+        "fullcard": "fullcards/Regal_Sliver.jpg"
+    },
+    {
+        "name": "Root Sliver",
+        "art": "arts/Root_Sliver.jpg",
+        "fullcard": "fullcards/Root_Sliver.jpg"
+    },
+    {
+        "name": "Screeching Sliver",
+        "art": "arts/Screeching_Sliver.jpg",
+        "fullcard": "fullcards/Screeching_Sliver.jpg"
+    },
+    {
+        "name": "Scuttling Sliver",
+        "art": "arts/Scuttling_Sliver.jpg",
+        "fullcard": "fullcards/Scuttling_Sliver.jpg"
+    },
+    {
+        "name": "Sedge Sliver",
+        "art": "arts/Sedge_Sliver.jpg",
+        "fullcard": "fullcards/Sedge_Sliver.jpg"
+    },
+    {
+        "name": "Sentinel Sliver",
+        "art": "arts/Sentinel_Sliver.png",
+        "fullcard": "fullcards/Sentinel_Sliver.jpg"
+    },
+    {
+        "name": "Shadow Sliver",
+        "art": "arts/Shadow_Sliver.jpg",
+        "fullcard": "fullcards/Shadow_Sliver.jpg"
+    },
+    {
+        "name": "Shifting Sliver",
+        "art": "arts/Shifting_Sliver.jpg",
+        "fullcard": "fullcards/Shifting_Sliver.jpg"
+    },
+    {
+        "name": "Sidewinder Sliver",
+        "art": "arts/Sidewinder_Sliver.jpg",
+        "fullcard": "fullcards/Sidewinder_Sliver.jpg"
+    },
+    {
+        "name": "Sinew Sliver",
+        "art": "arts/Sinew_Sliver.jpg",
+        "fullcard": "fullcards/Sinew_Sliver.jpg"
+    },
+    {
+        "name": "Sliver Construct",
+        "art": "arts/Sliver_Construct.jpg",
+        "fullcard": "fullcards/Sliver_Construct.jpg"
+    },
+    {
+        "name": "Sliver Gravemother",
+        "art": "arts/Sliver_Gravemother.jpg",
+        "fullcard": "fullcards/Sliver_Gravemother.jpg"
+    },
+    {
+        "name": "Sliver Hivelord",
+        "art": "arts/Sliver_Hivelord.jpg",
+        "fullcard": "fullcards/Sliver_Hivelord.jpg"
+    },
+    {
+        "name": "Sliver Legion",
+        "art": "arts/Sliver_Legion.jpg",
+        "fullcard": "fullcards/Sliver_Legion.jpg"
+    },
+    {
+        "name": "Sliver Overlord",
+        "art": "arts/Sliver_Overlord.jpg",
+        "fullcard": "fullcards/Sliver_Overlord.jpg"
+    },
+    {
+        "name": "Sliver Queen",
+        "art": "arts/Sliver_Queen.jpg",
+        "fullcard": "fullcards/Sliver_Queen.jpg"
+    },
+    {
+        "name": "Spectral Sliver",
+        "art": "arts/Spectral_Sliver.jpg",
+        "fullcard": "fullcards/Spectral_Sliver.jpg"
+    },
+    {
+        "name": "Spined Sliver",
+        "art": "arts/Spined_Sliver.jpg",
+        "fullcard": "fullcards/Spined_Sliver.jpg"
+    },
+    {
+        "name": "Spinneret Sliver",
+        "art": "arts/Spinneret_Sliver.jpg",
+        "fullcard": "fullcards/Spinneret_Sliver.jpg"
+    },
+    {
+        "name": "Spiteful Sliver",
+        "art": "arts/Spiteful_Sliver.jpg",
+        "fullcard": "fullcards/Spiteful_Sliver.jpg"
+    },
+    {
+        "name": "Spitting Sliver",
+        "art": "arts/Spitting_Sliver.jpg",
+        "fullcard": "fullcards/Spitting_Sliver.jpg"
+    },
+    {
+        "name": "Steelform Sliver",
+        "art": "arts/Steelform_Sliver.jpg",
+        "fullcard": "fullcards/Steelform_Sliver.jpg"
+    },
+    {
+        "name": "Striking Sliver",
+        "art": "arts/Striking_Sliver.png",
+        "fullcard": "fullcards/Striking_Sliver.jpg"
+    },
+    {
+        "name": "Synapse Sliver",
+        "art": "arts/Synapse_Sliver.jpg",
+        "fullcard": "fullcards/Synapse_Sliver.jpg"
+    },
+    {
+        "name": "Synchronous Sliver",
+        "art": "arts/Synchronous_Sliver.jpg",
+        "fullcard": "fullcards/Synchronous_Sliver.jpg"
+    },
+    {
+        "name": "Syphon Sliver",
+        "art": "arts/Syphon_Sliver.jpg",
+        "fullcard": "fullcards/Syphon_Sliver.jpg"
+    },
+    {
+        "name": "Talon Sliver",
+        "art": "arts/Talon_Sliver.jpg",
+        "fullcard": "fullcards/Talon_Sliver.jpg"
+    },
+    {
+        "name": "Taunting Sliver",
+        "art": "arts/Taunting_Sliver.jpg",
+        "fullcard": "fullcards/Taunting_Sliver.jpg"
+    },
+    {
+        "name": "Telekinetic Sliver",
+        "art": "arts/Telekinetic_Sliver.jpg",
+        "fullcard": "fullcards/Telekinetic_Sliver.jpg"
+    },
+    {
+        "name": "Tempered Sliver",
+        "art": "arts/Tempered_Sliver.jpg",
+        "fullcard": "fullcards/Tempered_Sliver.jpg"
+    },
+    {
+        "name": "The First Sliver",
+        "art": "arts/The_First_Sliver.jpg",
+        "fullcard": "fullcards/The_First_Sliver.jpg"
+    },
+    {
+        "name": "Thorncaster Sliver",
+        "art": "arts/Thorncaster_Sliver.jpg",
+        "fullcard": "fullcards/Thorncaster_Sliver.jpg"
+    },
+    {
+        "name": "Toxin Sliver",
+        "art": "arts/Toxin_Sliver.jpg",
+        "fullcard": "fullcards/Toxin_Sliver.jpg"
+    },
+    {
+        "name": "Two-Headed Sliver",
+        "art": "arts/Two-Headed_Sliver.jpg",
+        "fullcard": "fullcards/Two-Headed_Sliver.jpg"
+    },
+    {
+        "name": "Vampiric Sliver",
+        "art": "arts/Vampiric_Sliver.jpg",
+        "fullcard": "fullcards/Vampiric_Sliver.jpg"
+    },
+    {
+        "name": "Venom Sliver",
+        "art": "arts/Venom_Sliver.png",
+        "fullcard": "fullcards/Venom_Sliver.jpg"
+    },
+    {
+        "name": "Venser's Sliver",
+        "art": "arts/Venser's_Sliver.jpg",
+        "fullcard": "fullcards/Venser's_Sliver.jpg"
+    },
+    {
+        "name": "Victual Sliver",
+        "art": "arts/Victual_Sliver.jpg",
+        "fullcard": "fullcards/Victual_Sliver.jpg"
+    },
+    {
+        "name": "Virulent Sliver",
+        "art": "arts/Virulent_Sliver.jpg",
+        "fullcard": "fullcards/Virulent_Sliver.jpg"
+    },
+    {
+        "name": "Ward Sliver",
+        "art": "arts/Ward_Sliver.jpg",
+        "fullcard": "fullcards/Ward_Sliver.jpg"
+    },
+    {
+        "name": "Watcher Sliver",
+        "art": "arts/Watcher_Sliver.jpg",
+        "fullcard": "fullcards/Watcher_Sliver.jpg"
+    },
+    {
+        "name": "Winged Sliver",
+        "art": "arts/Winged_Sliver.jpg",
+        "fullcard": "fullcards/Winged_Sliver.jpg"
+    }
+]
