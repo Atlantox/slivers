@@ -280,6 +280,11 @@
         "fullcard": "fullcards/Metallic_Sliver.jpg"
     },
     {
+        "name": "Metallic Sliver Token",
+        "art": "arts/Metallic_Sliver_Token.jpg",
+        "fullcard": "fullcards/Metallic_Sliver_Token.jpg"
+    },
+    {
         "name": "Might Sliver",
         "art": "arts/Might_Sliver.jpg",
         "fullcard": "fullcards/Might_Sliver.jpg"
@@ -415,6 +420,11 @@
         "fullcard": "fullcards/Sinew_Sliver.jpg"
     },
     {
+        "name": "Sliver Army Token",
+        "art": "arts/Sliver_Army_Token.png",
+        "fullcard": "fullcards/Sliver_Army_Token.png"
+    },
+    {
         "name": "Sliver Construct",
         "art": "arts/Sliver_Construct.jpg",
         "fullcard": "fullcards/Sliver_Construct.jpg"
@@ -443,6 +453,16 @@
         "name": "Sliver Queen",
         "art": "arts/Sliver_Queen.jpg",
         "fullcard": "fullcards/Sliver_Queen.jpg"
+    },
+    {
+        "name": "Sliver Token 1",
+        "art": "arts/Sliver_Token_1.png",
+        "fullcard": "fullcards/Sliver_Token_1.png"
+    },
+    {
+        "name": "Sliver Token 2",
+        "art": "arts/Sliver_Token_2.png",
+        "fullcard": "fullcards/Sliver_Token_2.jpg"
     },
     {
         "name": "Spectral Sliver",
